@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, sou o Samuel! 👋
 
-<!--
-**Samuel00700700/Samuel00700700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Python focado em automação e coleta de dados.
+Transformo tarefas repetitivas em scripts eficientes.
 
-Here are some ideas to get you started:
+### 🛠️ O que posso fazer por você
+- Automação de tarefas e processos
+- Web scraping e coleta de dados em sites
+- Consumo de APIs externas
+- Geração de relatórios automáticos em Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projetos
+- [Monitor de Preços](link)
+- [Relatório de Clima em Excel](link)
+
+### 📩 Aberto a freelas — entre em contato!

@@ -10,7 +10,7 @@ Transformo tarefas repetitivas em scripts eficientes.
 - Geração de relatórios automáticos em Excel
 
 ### 📂 Projetos
-- [Monitor de Preços](link)
-- [Relatório de Clima em Excel](link)
+- [Monitor de Preços](https://github.com/Samuel00700700/Monitor-de-precos)
+- [Relatório de Clima em Excel](https://github.com/Samuel00700700/Dados-do-clima)
 
 ### 📩 Aberto a freelas — entre em contato!
